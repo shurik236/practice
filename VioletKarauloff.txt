@@ -1,3 +1,4 @@
 Full Name: Violet Karauloff
 City: Ekateringburg
 Education: name
+Birth: date
